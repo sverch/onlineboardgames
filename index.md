@@ -11,6 +11,7 @@ Seriously, [this other list that someone just shared with me](https://docs.googl
 
 - [Codenames](https://codenames.plus/)
 - [Another Codenames (different card sets)](https://ninjabunny.github.io/KodeNames/)
+- [Decrypto](https://www.decryptr.io/)
 
 ### Account Required
 
